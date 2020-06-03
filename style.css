@@ -1,0 +1,16 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.card-bordered {
+    border-style: hidden ;
+    margin: 2px 10px;
+    width: 333px;
+}
+
+/* #picture {
+    border-radius: 70%;
+} */
